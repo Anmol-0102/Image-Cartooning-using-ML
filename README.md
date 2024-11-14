@@ -28,15 +28,22 @@ This project utilizes state-of-the-art Generative Adversarial Networks (GANs) fo
 The project uses two pre-trained models available for download:
 
   face_paint_512_v0.pt - https://drive.google.com/uc?id=1WK5Mdt6mwlcsqCZMHkCUSDJxN1UyFi0-
+  
   face_paint_512_v2_0.pt - https://drive.google.com/uc?id=18H3iK09_d54qEDoWIc82SyWB2xun4gjU
+  
 These models have been fine-tuned to deliver exceptional results, turning real-world photos into cartoon masterpieces.
 
 # **Installation**
   Prerequisites
+  
   Python 3.7+
+  
   PyTorch
+  
   OpenCV
+  
   NumPy
+  
   Matplotlib
 
 
@@ -55,7 +62,9 @@ The improved model delivers more refined details, vibrant colors, and smooth tra
 We've optimized the original GAN models for:
 
   **Higher Accuracy:** Reduced artifacts and improved the quality of line art.
+  
   **Faster Inference:** Enhanced processing speed, making it suitable for batch operations.
+  
   **Better Generalization:** Works well on a wide range of input images, including complex backgrounds.
 
 
