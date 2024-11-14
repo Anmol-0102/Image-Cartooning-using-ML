@@ -59,6 +59,7 @@ The improved model delivers more refined details, vibrant colors, and smooth tra
 
 
 **Performance Improvements**
+
 We've optimized the original GAN models for:
 
   **Higher Accuracy:** Reduced artifacts and improved the quality of line art.
@@ -68,7 +69,11 @@ We've optimized the original GAN models for:
   **Better Generalization:** Works well on a wide range of input images, including complex backgrounds.
 
 
+# **Acknowledgments**
 
+  The original models are based on the work of Minivision AI Research.
+  
+  Thanks to the open-source community for their invaluable contributions.
 
 
 
